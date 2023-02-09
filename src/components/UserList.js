@@ -60,7 +60,7 @@ const UserList = () => {
                 />
               </div>
               <div className="control">
-                <button type="submit" className="button is-info">
+                <button type="submit" className="button is-link">
                   Search
                 </button>
               </div>
